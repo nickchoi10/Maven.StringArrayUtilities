@@ -2,7 +2,7 @@ package com.zipcodewilmington;
 
 import org.junit.Assert;
 import org.junit.Test;
-
+// this test is namaed incorrectly...
 public class GetConsecutiveDuplicatesTest {
 
 

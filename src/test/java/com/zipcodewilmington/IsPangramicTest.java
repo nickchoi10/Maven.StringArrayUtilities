@@ -33,7 +33,4 @@ public class IsPangramicTest {
         boolean outcome = StringArrayUtils.isPangramic(array);
         Assert.assertFalse(outcome);
     }
-
-
-
 }
